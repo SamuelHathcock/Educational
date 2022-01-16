@@ -1,3 +1,6 @@
+Aleph 0
+ - https://m.youtube.com/watch?v=byNaO_zn2fI
+
 Good Math Channels/sources
 
 PatrickJMT
