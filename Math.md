@@ -30,3 +30,5 @@ wikipedia
 quora
 
 Wolfram|Alpha
+
+https://math.berkeley.edu/~kpmann/Lakatos.pdf
