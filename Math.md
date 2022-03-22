@@ -33,5 +33,7 @@ Wolfram|Alpha
 
 Richard E. BORCHERDS
 
+The Math Sorcerer
+
 # Books / Articles
 https://math.berkeley.edu/~kpmann/Lakatos.pdf
